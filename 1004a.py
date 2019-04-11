@@ -7,17 +7,11 @@ class Universe:
 def something():
     pass 
 
-<<<<<<< HEAD
-
-
-||||||| merged common ancestors
-=======
 def eject():
     pass
 
 def insert():
     pass
     
->>>>>>> master
 
 #test commita 
