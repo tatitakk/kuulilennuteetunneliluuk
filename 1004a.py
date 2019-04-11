@@ -1,4 +1,4 @@
-Class universe:
+class universe:
     #docstring
 
     def __init__(self):
